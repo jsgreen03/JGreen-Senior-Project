@@ -1,4 +1,4 @@
-#Topological Data Analysis of Embryonic Pluripotent Stem Cells
+# Topological Data Analysis of Embryonic Pluripotent Stem Cells
 
 Welcome to Jaxon Green's Senior Thesis!
 
